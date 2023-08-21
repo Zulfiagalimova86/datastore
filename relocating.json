@@ -1,0 +1,55 @@
+{
+  "countries": [
+    {
+      "name": "Россия",
+      "code": "RU"
+    },
+    {
+      "name": "Казахстан",
+      "code": "KZ"
+    },
+    {
+      "name": "Белорусь",
+      "code": "BY"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Москва",
+      "code": 495,
+      "country_code": "RU"
+    },
+    {
+      "name": "Санкт-Петербург",
+      "code": 812,
+      "country_code": "RU"
+    },
+    {
+      "name": "Казахстан",
+      "code": 205,
+      "country_code": "KZ"
+    },
+    {
+      "name": "Белорусь",
+      "code": 45,
+      "country_code": "BY"
+    }
+  ],
+  "managers": [
+    {
+      "name": "Иванов Иван Иванович",
+      "countries": ["RU", "BY"],
+      "cities": [495, 812, 654]
+    },
+    {
+      "name": "Петров Петр Петрович",
+      "countries": ["RU"],
+      "cities": [495]
+    },
+    {
+      "name": "Сидоров Сидр Сидрович",
+      "countries": ["KZ", "BY"],
+      "cities": [434]
+    }
+  ]
+}
