@@ -2,15 +2,21 @@
   "countries": [
     {
       "name": "Россия",
-      "code": "RU"
+      "code": "RU",
+      "flagId": "ru",
+      "supportedLanguages": ["ru", "kz"]
     },
     {
       "name": "Казахстан",
-      "code": "KZ"
+      "code": "KZ",
+      "flagId": "kz",
+      "supportedLanguages": ["by", "kz"]
     },
     {
       "name": "Белорусь",
-      "code": "BY"
+      "code": "BY",
+      "flagId": "by",
+      "supportedLanguages": ["ru", "by"]
     }
   ],
   "cities": [
