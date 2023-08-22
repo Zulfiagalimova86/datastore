@@ -3,18 +3,21 @@
     {
       "name": "Россия",
       "code": "RU",
+      "capitalName": "Москва",
       "flagId": "ru",
       "supportedLanguages": ["ru", "kz"]
     },
     {
       "name": "Казахстан",
       "code": "KZ",
+      "capitalName": "Астана",
       "flagId": "kz",
       "supportedLanguages": ["by", "kz"]
     },
     {
       "name": "Белорусь",
       "code": "BY",
+      "capitalName": "Минск",
       "flagId": "by",
       "supportedLanguages": ["ru", "by"]
     }
