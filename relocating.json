@@ -26,25 +26,29 @@
     {
       "name": "Москва",
       "code": 495,
-      "country_code": "RU"
+      "country_code": "RU",
+      "starts": 4
     },
     {
       "name": "Санкт-Петербург",
       "code": 812,
-      "country_code": "RU"
+      "country_code": "RU",
+      "starts": 5
     },
     {
       "name": "Казахстан",
       "code": 205,
-      "country_code": "KZ"
+      "country_code": "KZ",
+      "starts": 4
     },
     {
       "name": "Белорусь",
       "code": 45,
-      "country_code": "BY"
+      "country_code": "BY",
+      "starts": 4
     }
   ],
-  "managers": [
+  "realtors": [
     {
       "name": "Иванов Иван Иванович",
       "countries": ["RU", "BY"],
