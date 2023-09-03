@@ -20,6 +20,13 @@
       "capitalName": "Минск",
       "flagId": "by",
       "supportedLanguages": ["ru", "by"]
+    },
+    {
+      "name": "Таджикистан",
+      "code": "TJ",
+      "capitalName": "Душанбе",
+      "flagId": " tj",
+      "supportedLanguages": ["ru", "tj"]
     }
   ],
   "cities": [
@@ -46,6 +53,12 @@
       "code": 45,
       "country_code": "BY",
       "starts": 4
+    },
+    {
+      "name": "Душанюе",
+      "code": 8778,
+      "country_code": "TJ",
+      "starts": 3
     }
   ],
   "realtors": [
@@ -73,6 +86,11 @@
       "name": "Магамедов Магамедхан",
       "countries": ["BY"],
       "cities": [45]
+    },
+    {
+      "name": "Шафоев Имам",
+      "countries": ["TJ"],
+      "cities": [8778]
     }
   ]
 }
