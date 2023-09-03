@@ -25,7 +25,7 @@
       "name": "Таджикистан",
       "code": "TJ",
       "capitalName": "Душанбе",
-      "flagId": " tj",
+      "flagId": "tj",
       "supportedLanguages": ["ru", "tj"]
     }
   ],
